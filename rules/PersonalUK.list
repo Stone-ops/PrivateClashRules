@@ -26,6 +26,24 @@ DOMAIN-SUFFIX,mcc234.pub.3gppnetwork.org
 # DOMAIN,rcs-acs-mcc234.jibe.google.com
 DOMAIN-KEYWORD,mcc234
 
+
+
+# monzo
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo-alt.net
+# ifast
+DOMAIN-SUFFIX,ifastgb.com
+# wise
+DOMAIN-SUFFIX,wise.com
+# paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+# kraken
+DOMAIN-SUFFIX,kraken.com
+# myfin
+DOMAIN-SUFFIX,myfin.bg
+# neverless
+DOMAIN-SUFFIX,neverless.com
 ######################
 ####    Other     ####
 ######################
