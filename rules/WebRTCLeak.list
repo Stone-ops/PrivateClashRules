@@ -1,0 +1,13 @@
+######################
+##   Web RTC Leak   ##
+######################
+
+ # 防 WebRTC 泄漏（拦截 STUN）
+DOMAIN-SUFFIX,stun.l.google.com
+DOMAIN-KEYWORD,stun
+DOMAIN-KEYWORD,turn
+DOMAIN-KEYWORD,rtc
+
+######################
+####    Other     ####
+######################
