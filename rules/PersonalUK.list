@@ -35,6 +35,9 @@ DOMAIN-SUFFIX,monzo.com
 DOMAIN-SUFFIX,monzo-alt.net
 # ifast
 DOMAIN-SUFFIX,ifastgb.com
+# Yonder
+DOMAIN-SUFFIX,yondercard.com
+DOMAIN-SUFFIX,yonder.com
 # wise
 DOMAIN-SUFFIX,wise.com
 # paypal
