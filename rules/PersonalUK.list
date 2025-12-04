@@ -40,9 +40,6 @@ DOMAIN-SUFFIX,yondercard.com
 DOMAIN-SUFFIX,yonder.com
 # wise
 DOMAIN-SUFFIX,wise.com
-# paypal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
 # kraken
 DOMAIN-SUFFIX,kraken.com
 # myfin
