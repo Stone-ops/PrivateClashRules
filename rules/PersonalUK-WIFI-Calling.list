@@ -24,7 +24,7 @@ IP-CIDR,31.94.0.0/16
 DOMAIN-SUFFIX,mcc234.pub.3gppnetwork.org
 DOMAIN-KEYWORD,mcc234
 # google rcs
-# DOMAIN,rcs-acs-mcc234.jibe.google.com
+DOMAIN,rcs-acs-mcc234.jibe.google.com
 ## 苹果定位的域名 ##
 # DOMAIN,gspe1-ssl.ls.apple.com
 ##########################
