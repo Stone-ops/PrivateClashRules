@@ -14,7 +14,7 @@ IP-CIDR,208.54.0.0/16,no-resolve
 # Verizon
 DOMAIN-SUFFIX,wo.vzwwo.com
 DOMAIN-SUFFIX,sg.vzwfemto.com
-DOMAIN-KEYWORD, t-mobile
+DOMAIN-KEYWORD,t-mobile
 DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,redirect.ultra.me
 DOMAIN-SUFFIX,ultramobile.com
