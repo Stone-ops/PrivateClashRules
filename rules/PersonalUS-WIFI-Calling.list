@@ -1,6 +1,6 @@
-######################
-##   WIFI Calling   ##
-######################
+###########################
+##  美国  WIFI Calling   ##
+###########################
 # AT&A
 DOMAIN-SUFFIX,epdg.epc.att.net
 DOMAIN-SUFFIX,sentitlement2.mobile.att.net
@@ -57,7 +57,7 @@ DOMAIN-KEYWORD,mcc311
 DOMAIN-KEYWORD,mcc313
 DOMAIN-KEYWORD,mcc316
 
-######################
-####    Other     ####
-######################
+###########################
+####        Other      ####
+###########################
 
