@@ -2,8 +2,8 @@
 ## 英国  WIFI Calling   ##
 ##########################
 # giffgaff
-IP-CIDR,87.194.0.0/19
-IP-CIDR,87.194.88.0/23
+IP-CIDR,87.194.0.0/16
+
 # 沃达丰
 DOMAIN-SUFFIX,entsrv-uk.vodafone.com
 DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
@@ -14,8 +14,7 @@ IP-CIDR,148.252.160.0/19
 DOMAIN,vfgb.idemia.io
 # CMLinkUK EE
 IP-CIDR,46.68.0.0/17
-# Giffgaff
-IP-CIDR,87.194.0.0/16
+
 # CTE
 DOMAIN-SUFFIX,ee.co.uk
 IP-CIDR,31.94.0.0/16
