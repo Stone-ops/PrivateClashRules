@@ -1,15 +1,9 @@
-##这里是个人用的需要代理的网址
-# 个人的密码库
-# DOMAIN,vaultwarden.starwish.top
-# 黑沼泽小说和后花园小说
-DOMAIN-SUFFIX,zhaoze.vip
-DOMAIN-SUFFIX,houhuayuan.vip
-# 这两个是国外小黄油下载网站
-DOMAIN-SUFFIX,anime-sharing.com
-DOMAIN-SUFFIX,kimochi.info
-# 天使动漫
-DOMAIN-SUFFIX,sbdm.net
+######################################
+#### 这里是个人用的需要代理的网址   ####
+######################################
 # 数字居民
 DOMAIN-SUFFIX,shuzijumin.com
-# Android pif generation
-DOMAIN,developer.android.com
+
+######################################
+########        Other         ########
+######################################
