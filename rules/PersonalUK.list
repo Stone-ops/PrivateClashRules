@@ -48,6 +48,7 @@ DOMAIN-SUFFIX, cm.everesttech.net
 DOMAIN-SUFFIX, omtrdc.net
 # ifast
 DOMAIN-SUFFIX, ifastgb.com
+DOMAIN-SUFFIX, ifastcorp.com
 # wuzo
 DOMAIN-SUFFIX, wuzo.co.uk
 DOMAIN-SUFFIX, wuzo.com
@@ -96,7 +97,9 @@ DOMAIN-SUFFIX, browser-intake-datadoghq.eu
 # paysend
 DOMAIN-SUFFIX, paysend.io
 # hsbc uk
+DOMAIN, uk.hsbc.com
 DOMAIN-SUFFIX, hsbc.co.uk
+DOMAIN-WILDCARD,*.uk.hsbc.com
 # topcashback
 DOMAIN-SUFFIX, topcashback.com
 # kroo
@@ -120,7 +123,6 @@ DOMAIN-SUFFIX, altery.com
 DOMAIN-SUFFIX, fpjs.io
 DOMAIN-SUFFIX, clarity.ms
 DOMAIN-SUFFIX, app-analytics-services.com
-
 # kraken 交易所
 DOMAIN-SUFFIX,kraken.com
 # neverless 交易所
