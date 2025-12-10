@@ -124,11 +124,14 @@ DOMAIN-SUFFIX, fpjs.io
 DOMAIN-SUFFIX, clarity.ms
 DOMAIN-SUFFIX, app-analytics-services.com
 # kraken 交易所
-DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX, kraken.com
+DOMAIN-SUFFIX, kraken.prx.io
+DOMAIN-SUFFIX, krak.app
+DOMAIN-KEYWORD, krak
 # neverless 交易所
-DOMAIN-SUFFIX,neverless.com
+DOMAIN-SUFFIX, neverless.com
 # myfin
-DOMAIN-SUFFIX,myfin.bg
+DOMAIN-SUFFIX, myfin.bg
 # 兜底
 DOMAIN-SUFFIX, co.uk
 ######################
