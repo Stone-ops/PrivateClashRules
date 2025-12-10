@@ -3,7 +3,12 @@
 ######################################
 # 数字居民
 DOMAIN-SUFFIX,shuzijumin.com
-
+# namecrane
+DOMAIN-SUFFIX, namecrane.com
+DOMAIN-SUFFIX, workspace.org
+# emclient
+DOMAIN-SUFFIX, emclient.com
+DOMAIN, mail.tronlinker.com
 ######################################
 ########        Other         ########
 ######################################
