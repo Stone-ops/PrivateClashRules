@@ -132,7 +132,9 @@ DOMAIN-KEYWORD, krak
 DOMAIN-SUFFIX, neverless.com
 # myfin
 DOMAIN-SUFFIX, myfin.bg
-
+# ready
+DOMAIN-SUFFIX, ready.co
+DOMAIN-KEYWORD, ready
 # 兜底
 DOMAIN-SUFFIX, co.uk
 
