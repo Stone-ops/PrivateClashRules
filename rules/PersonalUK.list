@@ -134,7 +134,10 @@ DOMAIN-SUFFIX, neverless.com
 DOMAIN-SUFFIX, myfin.bg
 # ready
 DOMAIN-SUFFIX, ready.co
+DOMAIN-SUFFIX, argent-api.com
+DOMAIN-SUFFIX, walletconnect.org
 DOMAIN-KEYWORD, ready
+DOMAIN-KEYWORD, argent
 # 兜底
 DOMAIN-SUFFIX, co.uk
 
