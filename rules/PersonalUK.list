@@ -139,6 +139,7 @@ DOMAIN-SUFFIX, walletconnect.org
 DOMAIN-SUFFIX, walletconnect.com
 DOMAIN-KEYWORD, ready
 DOMAIN-KEYWORD, argent
+DOMAIN-KEYWORD, walletconnect
 # 兜底
 DOMAIN-SUFFIX, co.uk
 
