@@ -13,6 +13,15 @@ IP-CIDR,43.134.91.178/32,no-resolve
 IP-CIDR,82.26.24.183/32,no-resolve
 IP-CIDR,149.88.66.111/32,no-resolve
 
+# namecrane
+DOMAIN-SUFFIX, namecrane.com
+DOMAIN-SUFFIX, workspace.org
+
+# emclient
+DOMAIN-SUFFIX, emclient.com
+DOMAIN, mail.tronlinker.com
+
+# netcup
 DOMAIN-KEYWORD, netcup
 
 ######################################
