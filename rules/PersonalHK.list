@@ -3,9 +3,10 @@
 ######################
 # AliPay
 DOMAIN-SUFFIX, alipayhk.com
+DOMAIN-SUFFIX, clubsim.com.hk
 DOMAIN-SUFFIX, alipay.hk
 DOMAIN-KEYWORD, alipayhk
-
+DOMAIN-KEYWORD, clubsim
 ######################
 ####    Other     ####
 ######################
