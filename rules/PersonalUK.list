@@ -33,8 +33,8 @@ DOMAIN, bclays-ads.aimatch.com
 DOMAIN-KEYWORD, barclays
 # myguava
 DOMAIN-SUFFIX, guavapay.com
-DOMAIN-KEYWORD,myguava
-DOMAIN-KEYWORD,guavapay
+DOMAIN-KEYWORD, myguava
+DOMAIN-KEYWORD, guavapay
 # 小马系列
 DOMAIN-SUFFIX, lloydsbank.co.uk
 DOMAIN-SUFFIX, amazontrust.com
@@ -99,7 +99,7 @@ DOMAIN-SUFFIX, paysend.io
 # hsbc uk
 DOMAIN, uk.hsbc.com
 DOMAIN-SUFFIX, hsbc.co.uk
-DOMAIN-WILDCARD,*.uk.hsbc.com
+DOMAIN-WILDCARD, *.uk.hsbc.com
 # topcashback
 DOMAIN-SUFFIX, topcashback.com
 # kroo
@@ -107,8 +107,8 @@ DOMAIN-SUFFIX, kroo.com
 # uphold
 DOMAIN-SUFFIX, uphold.com
 # yonder
-DOMAIN-SUFFIX,yondercard.com
-DOMAIN-SUFFIX,yonder.com
+DOMAIN-SUFFIX, yondercard.com
+DOMAIN-SUFFIX, yonder.com
 # jaja
 DOMAIN-SUFFIX, jaja.finance
 DOMAIN-SUFFIX, jaja.co.uk
