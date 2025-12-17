@@ -2,10 +2,10 @@
 ##     DIY  SG      ##
 ######################
 # OCBC
-DOMAIN-SUFFIX,ocbc.com
-DOMAIN-SUFFIX,siteintercept.qualtrics.com
+DOMAIN-SUFFIX, ocbc.com
+DOMAIN-SUFFIX, siteintercept.qualtrics.com
 # DtcPay
-DOMAIN-SUFFIX,dtcpay.com
+DOMAIN-SUFFIX, dtcpay.com
 ######################
 ####    Other     ####
 ######################
