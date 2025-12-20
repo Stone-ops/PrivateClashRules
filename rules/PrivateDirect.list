@@ -22,7 +22,7 @@ DOMAIN-SUFFIX, emclient.com
 DOMAIN, mail.tronlinker.com
 
 # netcup
-# DOMAIN-KEYWORD, netcup
+DOMAIN-KEYWORD, netcup
 
 ######################################
 ########        Other         ########
