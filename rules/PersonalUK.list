@@ -140,6 +140,10 @@ DOMAIN-SUFFIX, walletconnect.com
 DOMAIN-KEYWORD, ready
 DOMAIN-KEYWORD, argent
 DOMAIN-KEYWORD, walletconnect
+
+# 英国地址
+DOMAIN-SUFFIX, virtually-there.net
+
 # 兜底
 DOMAIN-SUFFIX, co.uk
 
