@@ -7,12 +7,19 @@ DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,oracle.com
 #Cloudflare的网页，有时候代理之后不给访问控制台
 DOMAIN-SUFFIX,cloudflare.com
-IP-CIDR,194.55.13.118/32,no-resolve
 
+# 德国
+IP-CIDR,194.55.13.118/32,no-resolve
+IP-CIDR,154.86.14.41/32,no-resolve
+# 新加坡
 IP-CIDR,43.134.91.178/32,no-resolve
+# 英国
 IP-CIDR,82.26.24.183/32,no-resolve
+# 香港
 IP-CIDR,149.88.66.111/32,no-resolve
 IP-CIDR,103.212.187.211/32,no-resolve
+# 荷兰
+IP-CIDR,92.112.124.130/32,no-resolve
 
 # namecrane
 DOMAIN-SUFFIX, namecrane.com
