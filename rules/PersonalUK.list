@@ -145,6 +145,10 @@ DOMAIN-KEYWORD, walletconnect
 DOMAIN-SUFFIX, virtually-there.net
 DOMAIN-SUFFIX, hetzner.cloud
 DOMAIN-KEYWORD, hetzner
+
+# 皇家邮政
+DOMAIN-SUFFIX, royalmail.com
+DOMAIN-KEYWORD, royalmail
 # 兜底
 DOMAIN-SUFFIX, co.uk
 
