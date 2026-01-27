@@ -25,8 +25,8 @@ IP-CIDR,103.212.187.211/32,no-resolve
 #IP-CIDR,92.112.124.130/32,no-resolve
 
 # 英国皇家邮政
-DOMAIN-SUFFIX, royalmail.com
-DOMAIN-KEYWORD, royalmail
+#DOMAIN-SUFFIX, royalmail.com
+#DOMAIN-KEYWORD, royalmail
 
 # namecrane
 DOMAIN-SUFFIX, namecrane.com
