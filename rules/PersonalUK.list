@@ -147,8 +147,8 @@ DOMAIN-SUFFIX, hetzner.cloud
 DOMAIN-KEYWORD, hetzner
 
 # 皇家邮政
-#DOMAIN-SUFFIX, royalmail.com
-#DOMAIN-KEYWORD, royalmail
+DOMAIN-SUFFIX, royalmail.com
+DOMAIN-KEYWORD, royalmail
 # 兜底
 DOMAIN-SUFFIX, co.uk
 
