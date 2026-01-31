@@ -143,8 +143,7 @@ DOMAIN-KEYWORD, walletconnect
 
 # 英国地址
 DOMAIN-SUFFIX, virtually-there.net
-DOMAIN-SUFFIX, hetzner.cloud
-DOMAIN-KEYWORD, hetzner
+
 
 # 皇家邮政
 DOMAIN-SUFFIX, royalmail.com
