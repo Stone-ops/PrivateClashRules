@@ -36,6 +36,10 @@ DOMAIN-SUFFIX, workspace.org
 DOMAIN-SUFFIX, emclient.com
 DOMAIN, mail.tronlinker.com
 
+# hetzner
+DOMAIN-SUFFIX, hetzner.cloud
+DOMAIN-KEYWORD, hetzner
+
 # netcup
 DOMAIN-KEYWORD, netcup
 
