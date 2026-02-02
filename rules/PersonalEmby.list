@@ -2,31 +2,25 @@
 ##      Emby        ##
 ######################
 # Lily
-DOMAIN,www.lilyemby.com
-DOMAIN,www.lilyemby.my
-DOMAIN,cdn.lilyemby.my
-DOMAIN,tx.lilyemby.my
+DOMAIN, www.lilyemby.com
 # 墨云阁
-DOMAIN-SUFFIX,mobaiemby.site
+#DOMAIN-SUFFIX, mobaiemby.site
 # HKA
 DOMAIN-SUFFIX,aliz.work
-# 临小境
-DOMAIN-SUFFIX,liminalnet.com
-DOMAIN-SUFFIX,liminalnet.site
 #OKEMby
-DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX, okemby.org
 # Luxrealm
-DOMAIN-SUFFIX,luxrealm.online
+DOMAIN-SUFFIX, luxrealm.online
 # Nya Media Chat
-DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX, bangumi.ca
 # 蘑菇
-DOMAIN-SUFFIX,coouu.cn
+DOMAIN-SUFFIX, coouu.cn
 # Nayovo
-DOMAIN-SUFFIX,007.us.kg
+DOMAIN-SUFFIX, 007.us.kg
 # 云慕
-DOMAIN-SUFFIX,nubebelle.cn
+DOMAIN-SUFFIX, nubebelle.cn
 # 起点
-DOMAIN-SUFFIX,28.al
+DOMAIN-SUFFIX, 28.al
 
 ######################
 ####    Other     ####
