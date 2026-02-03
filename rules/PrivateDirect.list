@@ -24,6 +24,7 @@ IP-CIDR,103.212.187.211/32,no-resolve
 # 荷兰
 #IP-CIDR,92.112.124.130/32,no-resolve
 
+IP-CIDR,5.178.101.35/32,no-resolve
 IP-CIDR,89.58.52.68/32,no-resolve
 
 # 英国皇家邮政
