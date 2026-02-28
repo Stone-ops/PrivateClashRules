@@ -47,7 +47,7 @@ DOMAIN-KEYWORD, hetzner
 DOMAIN-KEYWORD, netcup
 
 # emby
-DOMAIN, m.mobaiemby.site
+#DOMAIN, m.mobaiemby.site
 DOMAIN, cdn.lilyemby.com
 DOMAIN, tx.lilyemby.com
 DOMAIN, alyun.lilyemby.com
