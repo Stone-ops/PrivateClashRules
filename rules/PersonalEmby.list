@@ -2,11 +2,11 @@
 ##      Emby        ##
 ######################
 # Lily
-DOMAIN, www.lilyemby.com
+DOMAIN-SUFFIX, lilyemby.com
 # 墨云阁
 DOMAIN-SUFFIX, mobaiemby.site
 # HKA
-DOMAIN-SUFFIX,aliz.work
+DOMAIN-SUFFIX, aliz.work
 #OKEMby
 DOMAIN-SUFFIX, okemby.org
 # Luxrealm
