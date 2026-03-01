@@ -48,7 +48,7 @@ DOMAIN-KEYWORD, netcup
 
 # emby
 #DOMAIN, m.mobaiemby.site
-DOMAIN-SUFFIX, lilyemby.com
+#DOMAIN-SUFFIX, lilyemby.com
 
 ######################################
 ########        Other         ########
