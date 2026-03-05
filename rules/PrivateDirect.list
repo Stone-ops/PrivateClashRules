@@ -8,6 +8,9 @@ DOMAIN-SUFFIX, oracle.com
 #Cloudflare的网页，有时候代理之后不给访问控制台
 DOMAIN-SUFFIX, cloudflare.com
 
+# 飞书
+#DOMAIN-SUFFIX, feishu.cn
+
 # ipapark
 DOMAIN-SUFFIX, www.ipapark.com
 
