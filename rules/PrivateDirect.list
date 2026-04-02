@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,sharepoint.com
 #甲骨文云，用直连看看
 DOMAIN-SUFFIX, oracle.com
 #Cloudflare的网页，有时候代理之后不给访问控制台
-DOMAIN-SUFFIX, cloudflare.com
+#DOMAIN-SUFFIX, cloudflare.com
 
 DOMAIN-SUFFIX, 163.com
 # 飞书
