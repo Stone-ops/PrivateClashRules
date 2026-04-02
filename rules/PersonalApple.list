@@ -2,12 +2,12 @@
 ##      Apple       ##
 ######################
 # Apple
-DOMAIN-SUFFIX, ls.apple.com
-DOMAIN-SUFFIX, smoot.apple.com
-DOMAIN-SUFFIX, guzzoni.apple.com
-DOMAIN-SUFFIX, apple-relay.apple.com
-DOMAIN-SUFFIX, cp4.cloudflare.com
+DOMAIN-KEYWORD, apple
+DOMAIN-KEYWORD, apple-relay
+DOMAIN-SUFFIX, apple.com
+DOMAIN-SUFFIX, cloudflare.com
 IP-CIDR,17.248.152.0/24,no-resolve
+
 ######################
 ####    Other     ####
 ######################
