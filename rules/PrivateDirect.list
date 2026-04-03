@@ -52,7 +52,7 @@ DOMAIN-KEYWORD, netcup
 
 # emby
 #DOMAIN, m.mobaiemby.site
-DOMAIN-KEYWORD, lilyemby
+#DOMAIN-KEYWORD, lilyemby
 #DOMAIN-SUFFIX, lilyemby.com
 
 # 刘 AI
