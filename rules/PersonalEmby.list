@@ -1,6 +1,8 @@
 ######################
 ##      Emby        ##
 ######################
+
+DOMAIN-KEYWORD, emby
 # Lily
 DOMAIN-SUFFIX, lilyemby.com
 DOMAIN-KEYWORD, lilyemby
@@ -22,7 +24,8 @@ DOMAIN-SUFFIX, 007.us.kg
 DOMAIN-SUFFIX, nubebelle.cn
 # 起点
 DOMAIN-SUFFIX, 28.al
-
+# 小姨子
+DOMAIN-SUFFIX, emby.yun
 ######################
 ####    Other     ####
 ######################
