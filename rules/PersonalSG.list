@@ -6,6 +6,9 @@ DOMAIN-SUFFIX, ocbc.com
 DOMAIN-SUFFIX, siteintercept.qualtrics.com
 # DtcPay
 DOMAIN-SUFFIX, dtcpay.com
+
+
+DOMAIN-SUFFIX, dpdns.org
 ######################
 ####    Other     ####
 ######################
