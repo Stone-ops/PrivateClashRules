@@ -61,8 +61,10 @@ DOMAIN-SUFFIX, tmpmail.vip
 
 DOMAIN-KEYWORD, ovhcloud
 
+# PT站
 #DOMAIN-KEYWORD, torrentleech
 DOMAIN-KEYWORD, hdkyl
+DOMAIN-KEYWORD, crabpt
 ######################################
 ########        Other         ########
 ######################################
