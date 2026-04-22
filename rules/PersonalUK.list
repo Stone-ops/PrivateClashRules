@@ -148,7 +148,7 @@ DOMAIN-SUFFIX, virtually-there.net
 # 皇家邮政
 DOMAIN-SUFFIX, royalmail.com
 DOMAIN-KEYWORD, royalmail
-
+DOMAIN-KEYWORD, lowendtalk
 
 # 兜底
 DOMAIN-SUFFIX, co.uk
