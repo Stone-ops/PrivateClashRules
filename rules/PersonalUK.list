@@ -152,7 +152,7 @@ DOMAIN-KEYWORD, lowendtalk
 
 
 # OVH 
-DOMAIN-KEYWORD, ovhcloud
+DOMAIN-SUFFIX, eu.ovhcloud.com
 
 # 兜底
 DOMAIN-SUFFIX, co.uk
