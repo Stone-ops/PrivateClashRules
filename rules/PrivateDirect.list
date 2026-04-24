@@ -59,7 +59,7 @@ DOMAIN-KEYWORD, netcup
 DOMAIN-SUFFIX, tmpmail.vip
 
 
-DOMAIN-KEYWORD, ovhcloud
+# DOMAIN-KEYWORD, ovhcloud
 
 # PT站
 #DOMAIN-KEYWORD, torrentleech
