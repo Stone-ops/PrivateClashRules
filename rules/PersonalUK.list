@@ -150,6 +150,10 @@ DOMAIN-SUFFIX, royalmail.com
 DOMAIN-KEYWORD, royalmail
 DOMAIN-KEYWORD, lowendtalk
 
+
+# OVH 
+DOMAIN-KEYWORD, ovhcloud
+
 # 兜底
 DOMAIN-SUFFIX, co.uk
 IP-CIDR,54.36.104.75/32,no-resolve
