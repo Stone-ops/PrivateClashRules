@@ -62,10 +62,19 @@ DOMAIN-SUFFIX, tmpmail.vip
 # DOMAIN-KEYWORD, ovhcloud
 
 # PT站
-#DOMAIN-KEYWORD, torrentleech
-DOMAIN-KEYWORD, hdkyl
-DOMAIN-KEYWORD, crabpt
-DOMAIN-KEYWORD, hddolby
+DOMAIN-SUFFIX, hdhome.org
+DOMAIN-SUFFIX, dmhy.org
+DOMAIN-SUFFIX, hddolby.com
+DOMAIN-SUFFIX, crabpt.vip
+DOMAIN-SUFFIX, ptchdbits.co
+DOMAIN-SUFFIX, tjupt.org
+DOMAIN-SUFFIX, hdkyl.in
+DOMAIN-SUFFIX, iptorrents.com
+DOMAIN-SUFFIX, novahd.top
+DOMAIN-SUFFIX, zmpt.cc
+DOMAIN-SUFFIX, audiences.me
+DOMAIN-SUFFIX, torrentleech.me
+DOMAIN-SUFFIX, m-team.cc
 ######################################
 ########        Other         ########
 ######################################
