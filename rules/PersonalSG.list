@@ -7,8 +7,12 @@ DOMAIN-SUFFIX, siteintercept.qualtrics.com
 # DtcPay
 DOMAIN-SUFFIX, dtcpay.com
 
-
 DOMAIN-SUFFIX, dpdns.org
+# PT
+DOMAIN-SUFFIX, dmhy.org
+DOMAIN-SUFFIX, iptorrents.com
+DOMAIN-SUFFIX, torrentleech.me
+
 ######################
 ####    Other     ####
 ######################
