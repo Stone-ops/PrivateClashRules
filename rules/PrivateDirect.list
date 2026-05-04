@@ -62,18 +62,32 @@ DOMAIN-SUFFIX, tmpmail.vip
 # DOMAIN-KEYWORD, ovhcloud
 
 # PT站
-DOMAIN-SUFFIX, hdhome.org
-DOMAIN-SUFFIX, hddolby.com
-DOMAIN-SUFFIX, crabpt.vip
-DOMAIN-SUFFIX, ptchdbits.co
-DOMAIN-SUFFIX, tjupt.org
-DOMAIN-SUFFIX, hdkyl.in
-DOMAIN-SUFFIX, novahd.top
-DOMAIN-SUFFIX, zmpt.cc
-DOMAIN-SUFFIX, audiences.me
+#馒头
 DOMAIN-SUFFIX, m-team.cc
+#观众
+DOMAIN-SUFFIX, audiences.me
+#憨憨
 DOMAIN-SUFFIX, hhanclub.net
 DOMAIN-SUFFIX, hhan.club
+#家园
+DOMAIN-SUFFIX, hdhome.org
+#杜比
+DOMAIN-SUFFIX, hddolby.com
+#彩虹岛
+DOMAIN-SUFFIX, ptchdbits.co
+#织梦
+DOMAIN-SUFFIX, zmpt.cc
+#蟹黄堡
+DOMAIN-SUFFIX, crabpt.vip
+#北洋园
+DOMAIN-SUFFIX, tjupt.org
+#麒麟
+DOMAIN-SUFFIX, hdkyl.in
+#熊猫
+DOMAIN-SUFFIX, pandapt.net
+#novahd
+DOMAIN-SUFFIX, novahd.top
+
 ######################################
 ########        Other         ########
 ######################################
