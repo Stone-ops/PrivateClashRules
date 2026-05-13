@@ -12,6 +12,7 @@ DOMAIN-SUFFIX, 163.com
 # 飞书
 DOMAIN-SUFFIX, feishu.cn
 
+
 # ipapark
 DOMAIN-SUFFIX, www.ipapark.com
 
@@ -93,6 +94,47 @@ DOMAIN-SUFFIX, hdkyl.in
 DOMAIN-SUFFIX, pandapt.net
 #novahd
 DOMAIN-SUFFIX, novahd.top
+
+
+
+
+
+
+# > Interactive Brokers / IBKR
+
+# Interactive Brokers 官方站点 / Client Portal / 各地区站点
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.ie
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,interactivebrokers.co.jp
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.hk
+DOMAIN-SUFFIX,interactivebrokers.com.sg
+DOMAIN-SUFFIX,interactivebrokers.com.au
+DOMAIN-SUFFIX,interactivebrokers.eu
+DOMAIN-SUFFIX,interactivebrokers.hu
+
+# IBKR 短域名 / 区域域名 / API / Brokerage
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkr.com.cn
+DOMAIN-SUFFIX,ibkr.com.hk
+DOMAIN-SUFFIX,brokerage.ibkr.com
+
+# TWS / IB Gateway 后端，包括 ndc/cdc/zdc/hdc/sdc/mcgw 等全部主备节点
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibllc.com.cn
+
+# IBKR 帮助 / 文档 / 知识库
+DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,ibkr.info
+
+# Interactive Brokers Group 关联服务，可选
+DOMAIN-SUFFIX,interactiveadvisors.com
+
+# TWS Cloud Settings
+DOMAIN-SUFFIX,s3.amazonaws.com
 
 ######################################
 ########        Other         ########
