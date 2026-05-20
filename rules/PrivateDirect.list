@@ -20,6 +20,7 @@ DOMAIN-SUFFIX, www.ipapark.com
 IP-CIDR,194.55.13.118/32,no-resolve
 IP-CIDR,185.244.193.62/32,no-resolve
 IP-CIDR,154.86.14.41/32,no-resolve
+
 # 新加坡
 IP-CIDR,43.134.91.178/32,no-resolve
 # 英国
@@ -30,10 +31,11 @@ IP-CIDR,103.212.187.211/32,no-resolve
 # 荷兰
 IP-CIDR,92.112.124.130/32,no-resolve
 
+
 # 美国
 DOMAIN-SUFFIX, nookreel.com
 IP-CIDR,108.62.161.228/32,no-resolve
-
+IP-CIDR,45.82.244.212/32,no-resolve
 IP-CIDR,5.178.101.35/32,no-resolve
 IP-CIDR,89.58.52.68/32,no-resolve
 
