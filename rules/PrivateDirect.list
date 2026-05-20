@@ -18,6 +18,7 @@ DOMAIN-SUFFIX, www.ipapark.com
 
 # 德国
 IP-CIDR,194.55.13.118/32,no-resolve
+IP-CIDR,185.244.193.62/32,no-resolve
 IP-CIDR,154.86.14.41/32,no-resolve
 # 新加坡
 IP-CIDR,43.134.91.178/32,no-resolve
