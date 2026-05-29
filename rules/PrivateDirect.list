@@ -31,7 +31,7 @@ IP-CIDR,103.212.187.211/32,no-resolve
 # 荷兰
 IP-CIDR,92.112.124.130/32,no-resolve
 
-
+IP-CIDR,130.12.168.7/32,no-resolve
 # 美国
 DOMAIN-SUFFIX, nookreel.com
 IP-CIDR,108.62.161.228/32,no-resolve
