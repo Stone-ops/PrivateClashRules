@@ -12,6 +12,7 @@ DOMAIN-SUFFIX, 163.com
 # 飞书
 DOMAIN-SUFFIX, feishu.cn
 DOMAIN-SUFFIX, youpai.de
+DOMAIN-KEYWORD, youpai
 
 # ipapark
 DOMAIN-SUFFIX, www.ipapark.com
