@@ -7,6 +7,9 @@ DOMAIN-SUFFIX, naixi.net
 DOMAIN-SUFFIX, ccwu.cc
 # DOMAIN-KEYWORD, netcup
 DOMAIN-SUFFIX, workers.dev
+# 支付接口
+DOMAIN-SUFFIX, motionetwork.com
+# DOMAIN-KEYWORD, motione
 ######################################
 ########        Other         ########
 ######################################
