@@ -9,7 +9,9 @@ DOMAIN-SUFFIX, ccwu.cc
 DOMAIN-SUFFIX, workers.dev
 # 支付接口
 DOMAIN-SUFFIX, motionetwork.com
-# DOMAIN-KEYWORD, motione
+DOMAIN-KEYWORD, motione
+DOMAIN-SUFFIX, i8py.com
+DOMAIN-KEYWORD, i8py
 ######################################
 ########        Other         ########
 ######################################
