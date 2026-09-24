@@ -91,6 +91,8 @@ DOMAIN-SUFFIX, hdhome.org
 DOMAIN-SUFFIX, hddolby.com
 #彩虹岛
 DOMAIN-SUFFIX, ptchdbits.co
+#TTG
+DOMAIN-SUFFIX, totheglory.im
 #织梦
 DOMAIN-SUFFIX, zmpt.cc
 #蟹黄堡
@@ -125,6 +127,12 @@ DOMAIN-SUFFIX, qingwapt.com
 DOMAIN-SUFFIX, xingyungept.org
 #末日
 DOMAIN-SUFFIX, agsvpt.cn
+
+#财神
+DOMAIN-SUFFIX, cspt.top
+
+#拾刻
+DOMAIN-SUFFIX, ptskit.org
 
 
 # > Interactive Brokers / IBKR
