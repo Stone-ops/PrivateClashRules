@@ -171,6 +171,9 @@ DOMAIN-SUFFIX,interactiveadvisors.com
 # TWS Cloud Settings
 DOMAIN-SUFFIX,s3.amazonaws.com
 
+# GOV
+DOMAIN-SUFFIX, gov.cn
+
 ######################################
 ########        Other         ########
 ######################################
